@@ -1,0 +1,22 @@
+
+      html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'helvetica', sans-serif;
+}
+
+.hero {
+  background-color: #f7f7f7;
+  width: 100%;
+  height: 693px;
+}
+
+.hero  #hero-canvas {
+    width: 100%;
+    height: 100%;
+    position: relative; 
+    background-image: url(line.gif);
+    background-size: 100%  100%;
+    background-position: center;
+}
